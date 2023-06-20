@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060687249792",
+    "firebase_url": "https://flappy-bird-6a7c5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flappy-bird-6a7c5",
+    "storage_bucket": "flappy-bird-6a7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060687249792:android:b62bd2390095f1230f0165",
+        "android_client_info": {
+          "package_name": "com.zhizhikkkk.FlappyBird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060687249792-25vqp1bfg4ma8oj499fh08a7vpigal6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9M1K9q4FVqhCYV52MN4MOq6nlI0kFDzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060687249792-25vqp1bfg4ma8oj499fh08a7vpigal6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
